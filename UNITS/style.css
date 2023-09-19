@@ -1,0 +1,11 @@
+/* 96px = 1 inch = 2.54cm */
+
+/* line-height */
+
+h3{
+    line-height: 8px;
+}
+/* text-transform */
+p{
+    text-transform: uppercase;
+}

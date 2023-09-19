@@ -1,0 +1,16 @@
+  /* universal selector */
+*{
+    background-color: black;
+}
+/* class selector */
+h1{
+    color:blue;
+}
+/* class selector */
+.bem{
+    color:white;
+}
+/* id selector */
+#a{
+    color:aquamarine;
+}
